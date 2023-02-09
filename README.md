@@ -1,4 +1,4 @@
-# RCT_Nudge_IKEA_app_2022
+# RCT_Nudge_IKEA_App_2022
 
 ## Introduction 
 
