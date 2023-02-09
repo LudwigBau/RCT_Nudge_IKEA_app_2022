@@ -7,4 +7,5 @@ During my master's seminar in applied behavioural economics, my team an I conduc
 **Summary:**
 
 • Recruited 281 participants
+
 • Found significant results with a pairwise fisher-exact test
